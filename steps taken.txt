@@ -1,0 +1,5 @@
+1. downloaded abuseval labels: https://github.com/tommasoc80/AbuseEval/tree/master
+2. extracted to code directory (DATASET_data/abuseval_labels)
+3. downloaded folder: https://osf.io/tbd58/files/osfstorage?view_only=
+4. tracked down original dataset (https://github.com/joeykay9/offenseval/tree/master).
+5. downloaded to DATASET_data/offenseval_data
