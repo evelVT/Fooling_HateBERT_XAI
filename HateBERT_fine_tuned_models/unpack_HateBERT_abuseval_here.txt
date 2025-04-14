@@ -1,0 +1,9 @@
+Once unpacked, there should now be a HateBERT_abuseval folder here.
+
+/HateBERT_abuseval/
+	config
+	log
+	pytorch_model.bin
+	special_tokens_map
+	tokenizer_config
+	vocab
